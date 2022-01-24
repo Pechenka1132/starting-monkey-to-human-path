@@ -1,0 +1,16 @@
+using System;
+namespact Pechenka1132
+ {
+ class Program
+{
+static void Main(string[] args)
+{
+ 
+
+Console.WriteLine("I’m <Ilya> <Borisov>, and I’m not a monkey");
+Console.ReadLing()
+}
+}
+}
+ 
+
